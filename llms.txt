@@ -1,0 +1,17 @@
+# 掃地機維修工作室 RoboFix（robofix.tw）
+
+> 新北市蘆洲的獨立掃地機維修工作室，專修石頭 Roborock 與小米、米家掃地機器人。2019 年起累計維修超過 3,600 台，蘆洲可自取、全台可寄修。非原廠授權維修中心。
+
+## 主要頁面
+- [首頁：維修項目、送修流程、常見問題](https://robofix.tw/)
+- [錯誤代碼一覽：代碼 1 到 28 與內部錯誤的原廠定義、自己怎麼處理、哪些要送修](https://robofix.tw/error-codes/)
+- [錯誤 1、雷射頭不轉](https://robofix.tw/error-1/)
+- [錯誤 13、不充電、電池更換](https://robofix.tw/error-13/)
+
+## 聯絡
+- Facebook：https://www.facebook.com/xiomimachine
+- 蝦皮賣場：https://shopee.tw/georgewuwu（評價 5.0，103 則）
+
+## 重要事實
+- 費用依型號與故障檢測後報價，網站不公布固定價目表。
+- 機器冒煙、焦味、電池膨脹或進水時，應立即停止使用與充電。
